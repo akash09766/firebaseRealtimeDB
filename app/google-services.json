@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067139175649",
+    "firebase_url": "https://fir-db-fe2fa.firebaseio.com",
+    "project_id": "fir-db-fe2fa",
+    "storage_bucket": "fir-db-fe2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067139175649:android:c3a6f0a6c367dc2a",
+        "android_client_info": {
+          "package_name": "com.developer.skylight.firebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067139175649-9tm0jogkfnejt6jum6tk38oeq28u817f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8c3IozOug7ZvAsCKQUI8ubeuJS-QYVn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
